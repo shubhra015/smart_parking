@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidPHPConnectionDemo!</string>
+    <string name="app_name">AndroidPHP</string>
+    <string name="Choose_Parking">Choose the Parking Place</string>
+    <string name="Type">Type of Vehicle</string>
+    <string name="Rate">Rate/hr</string>
+    <string name="Arr_Time">Arrival Time</string>
+    <string name="submit">Submit</string>
+</resources>
